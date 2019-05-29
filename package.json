@@ -1,0 +1,22 @@
+{
+  "name": "test-react-router-dom",
+  "version": "1.0.0",
+  "description": "\"# test-react-router-dom\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kovalevroman/test-react-router-dom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kovalevroman/test-react-router-dom/issues"
+  },
+  "homepage": "https://github.com/kovalevroman/test-react-router-dom#readme",
+  "dependencies": {
+    "react-router-dom": "^4.3.1"
+  }
+}
