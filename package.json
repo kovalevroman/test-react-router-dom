@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kovalevroman/test-react-router-dom#readme",
   "dependencies": {
-    "react-router-dom": "^4.3.1"
+    "react-router-dom": "^6.26.2"
   }
 }
